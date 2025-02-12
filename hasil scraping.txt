@@ -1,0 +1,17 @@
+Heading Utama: Muhammad Arrafi Reva Razqana Arassy
+H1: Muhammad Arrafi Reva Razqana Arassy
+H2: Mahasiswa D4 Teknik Informatika
+H3: Tentang Saya
+H3: Pengalaman
+H3: Keterampilan
+H3: Hubungi Saya
+H4: Fakta Menarik
+Paragraf 1 dalam Tentang: 
+          Halo, saya adalah seorang Mahasiswa D4 Teknik Informatika. Saya memiliki minat dalam game developer, pemrograman, dan desain.
+
+Paragraf 2 dalam Tentang:
+            Saya merupakan Lulusan dari SD Assalaam , SMPN 5 Bandung, SMAN 4 Bandung. Saya saat ini sedang melanjutkan jenjang pendidikan di Politeknik Negeri Bandung. Saya berada pada jurusan Teknik komputer dan Informatika dengan Program Studi D4 Teknik Informatika.
+
+Link Navigasi: #tentang - Tentang
+Link Navigasi: #pengalaman - Pengalaman
+Link Navigasi: #kontak - Kontak
